@@ -2,7 +2,7 @@ ImageJ is open source software for processing and analyzing scientific images.
 
 <table>
 <tr>
-<td><img width="48" src="https://imagej.net/media/icons/imagej.png"></td>
+<td><a href="https://imagej.net/software/imagej"><img width="48" src="https://imagej.net/media/icons/imagej.png"></a></td>
 <td>
 
 **ImageJ** is the original desktop application which has been in development since 1997.
@@ -10,7 +10,7 @@ ImageJ is open source software for processing and analyzing scientific images.
 </td>
 </tr>
 <tr>
-<td><img width="48" src="https://imagej.net/media/icons/imagej2.png"></td>
+<td><a href="https://imagej.net/software/imagej2"><img width="48" src="https://imagej.net/media/icons/imagej2.png"></a></td>
 <td>
 
 **ImageJ2** is a new version of ImageJ targeting scientific multidimensional image data.
